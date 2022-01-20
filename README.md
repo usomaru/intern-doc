@@ -3,7 +3,7 @@
 
 ## 起動時に必要なもの
 
-- node
+- [node.js](https://nodejs.org/ja/download/)
 ## 起動方法
 
 1. node_modulesを取得します
@@ -14,7 +14,7 @@
 npm install
 ```
 
-1. 以下のコマンドを実行して起動します
+2. 以下のコマンドを実行して起動します
 
 ```
  vuepress dev docs
